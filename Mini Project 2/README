@@ -1,6 +1,6 @@
 This folder contains solutions to the second assignment for the course.The structure of this assignment is as follows:
 
-    McCulloch-Pitts Neuron
-    Multi-Layer Perceptron (MLP) Networks
-    Decision Trees
-    Naive Bayes Classifier
+  Q1:   McCulloch-Pitts Neuron
+  Q2:  Multi-Layer Perceptron (MLP) Networks
+  Q3:  Decision Trees
+  Q4:  Naive Bayes Classifier
