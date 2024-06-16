@@ -1,4 +1,4 @@
-This repository contains solutions for the third mini-project, which focuses on implementing SVM technique.
-
+This folder contains solutions to the third assignment for the course, which focuses on implementing the SVM technique
+The structure of this assignment is as follows:
   Q1:  Implementing Support Vector Machines (SVMs) with scikit-learn and from scratch.
   Q3:  Implementing "Credit Card Fraud Detection Using Autoencoder Neural Network" paper.
