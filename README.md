@@ -17,12 +17,11 @@ This repository includes the code, datasets, and reports for the four mini proje
 ## Mini Projects
 Explore various machine learning techniques through these mini projects:
 
-# MachineLearning2024 - Project Descriptions
-
 ## Mini Project 1: Linear Classifiers
 
 ### Tasks:
 - Dataset generation using sklearn.datasets.
+- Feature extraction and data preparation.
 - Hyperparameter tuning and decision boundary visualization.
 
 ### Links:
@@ -30,46 +29,68 @@ Explore various machine learning techniques through these mini projects:
 
 ---
 
-## Mini Project 2: Fault Detection with Extended Dataset
+## Mini Project 2: MLP Networks & Naive Bayes Classifier
 
 ### Tasks:
 - Dataset extension and analysis.
-- Feature extraction and data preparation.
+- classification using McCulloch-Pitts Neuron
 - MLP model training and evaluation.
-- Comparison of optimizers and loss functions.
+- classification using Naive Bayes.
 
 ### Links:
-- [Google Drive Link](https://drive.google.com/your-link)
+- [Google Drive Link](https://drive.google.com/drive/folders/1b5B582yp_CKuDpapPd8woH40hSIaU1yk?usp=sharing)
 
 ---
 
-## Mini Project 3: SVM on Iris Dataset and Generalized Multiclass SVM
+## Mini Project 3: SVM on Iris Dataset and Credit Card Fraud Detection Using Autoencoder Neural Network
 
 ### Tasks:
 - SVM implementation on Iris dataset.
 - Kernel comparison and visualization.
 - SVM from scratch.
-- Generalized multiclass SVM implementation.
+- Implementing "Credit Card Fraud Detection Using Autoencoder Neural Network" paper.
 
 ### Links:
-- [Google Drive Link](https://drive.google.com/your-link)
+- [Google Drive Link](https://drive.google.com/drive/folders/13AzvgDBKOHcyuoBS8h4MY1iZfFxWNsr9?usp=sharing)
 
 ---
 
 ## Mini Project 4: Q-learning and Deep Q-Network in Wumpus World
 
 ### Tasks:
+- Building Wumpus World environment.
 - Q-learning implementation in Wumpus World.
 - DQN implementation and training.
-- Enhanced reward structures and additional scenarios.
 
 ### Links:
-- [Google Drive Link](https://drive.google.com/your-link)
+- [Google Drive Link](https://drive.google.com/drive/folders/1oFh5an35Q6h42DEsNA36EbEkoOJjOI_l?usp=sharing)
 
 ---
 
-### Notes:
-- Replace `[Google Drive Link](https://drive.google.com/your-link)` with the actual Google Drive links for each project.
-- Add additional sections or details as needed for your specific projects.
-- Ensure consistency in formatting and structure throughout the README.
+## Exams
+The repository includes my answers to the midterm and final exams:
 
+## Midterm Exam
+The midterm exam took place on May 30th.
+
+### topics:
+- Linear Classifiers.
+- MLP Networks.
+- Decission Tree.
+  
+### Links:
+- [Google Drive Link](https://drive.google.com/drive/folders/1_P3-nvhOeYg_IHdjLAWpdWicf3BTGy_N?usp=sharing)
+
+---
+## Final Exam
+The midterm exam took place on June 26th.
+
+### topics:
+- SVM.
+- LDA & PCA.
+- Q_Learning & Deep Q-Network .
+  
+### Links:
+- [Google Drive Link](https://drive.google.com/drive/folders/1Ot1itfRgFwJMES9MD5RBcutQCEaT26v-?usp=sharing)
+
+---
