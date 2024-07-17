@@ -24,7 +24,7 @@ Explore various machine learning techniques through these mini projects:
 - Feature extraction and data preparation.
 - Hyperparameter tuning and decision boundary visualization.
 
-### Links:
+### Link:
 - [Google Drive Link](https://drive.google.com/drive/folders/1J257gP6OFWAWBdwDVx3DuEpFa299DFbz?usp=sharing)
 
 ---
@@ -37,7 +37,7 @@ Explore various machine learning techniques through these mini projects:
 - MLP model training and evaluation.
 - classification using Naive Bayes.
 
-### Links:
+### Link:
 - [Google Drive Link](https://drive.google.com/drive/folders/1b5B582yp_CKuDpapPd8woH40hSIaU1yk?usp=sharing)
 
 ---
@@ -50,7 +50,7 @@ Explore various machine learning techniques through these mini projects:
 - SVM from scratch.
 - Implementing "Credit Card Fraud Detection Using Autoencoder Neural Network" paper.
 
-### Links:
+### Link:
 - [Google Drive Link](https://drive.google.com/drive/folders/13AzvgDBKOHcyuoBS8h4MY1iZfFxWNsr9?usp=sharing)
 
 ---
@@ -62,7 +62,7 @@ Explore various machine learning techniques through these mini projects:
 - Q-learning implementation in Wumpus World.
 - DQN implementation and training.
 
-### Links:
+### Link:
 - [Google Drive Link](https://drive.google.com/drive/folders/1oFh5an35Q6h42DEsNA36EbEkoOJjOI_l?usp=sharing)
 
 ---
@@ -78,7 +78,7 @@ The Midterm exam took place on May 30th.
 - MLP Networks.
 - Decission Tree.
   
-### Links:
+### Link:
 - [Google Drive Link](https://drive.google.com/drive/folders/1_P3-nvhOeYg_IHdjLAWpdWicf3BTGy_N?usp=sharing)
 
 ---
@@ -90,7 +90,41 @@ The Final exam took place on June 26th.
 - LDA & PCA.
 - Q_Learning & Deep Q-Network .
   
-### Links:
+### Link:
 - [Google Drive Link](https://drive.google.com/drive/folders/1Ot1itfRgFwJMES9MD5RBcutQCEaT26v-?usp=sharing)
 
 ---
+## Main Project
+The main project is a comprehensive application of the concepts learned throughout the course. Details of the project are as follows:
+
+- **Project Title:** [Main Project Title]
+- **Description:** [Brief description of the main project]
+- [Link to Main Project]
+
+---
+
+## Getting Started
+To get started with the projects and exams, follow the instructions below.
+
+## Installation
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/FatemehShokrollahiMoghadam/MachineLearning2024.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd MachineLearning2024
+    ```
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+To run the mini projects and main project, follow the instructions provided in their respective directories.
+
+## Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
+
+## License
+This project is licensed under the MIT License.
