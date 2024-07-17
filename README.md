@@ -13,7 +13,7 @@ Welcome to the GitHub repository for the Machine Learning course offered by Dr. 
 - [License](#license)
 
 ## Course Overview
-This repository includes the code, datasets, and reports for the four mini projects, a main project and Exams.
+This repository includes the code, datasets, and reports for the four mini projects, Exams and main project .
 ## Mini Projects
 Explore various machine learning techniques through these mini projects:
 
@@ -71,7 +71,7 @@ Explore various machine learning techniques through these mini projects:
 The repository includes my answers to the midterm and final exams:
 
 ## Midterm Exam
-The midterm exam took place on May 30th.
+The Midterm exam took place on May 30th.
 
 ### topics:
 - Linear Classifiers.
@@ -83,7 +83,7 @@ The midterm exam took place on May 30th.
 
 ---
 ## Final Exam
-The midterm exam took place on June 26th.
+The Final exam took place on June 26th.
 
 ### topics:
 - SVM.
