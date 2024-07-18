@@ -1,6 +1,6 @@
 # **📘 Mini Project 3**
 
-## **📖 Project Overview**
+## **📖 Mini Project Overview**
 Welcome to the third Machine Learning Mini Project. This mini project involves implementing and evaluating various machine learning models on different dans, each focusing on different aspectasets. The mini project is divided into 2 questiots such as SVM and Autoencoders. This part includes the code, datasets, and reports for the mini-project. Detailed instructions and requirements for each part are provided below.
 
 ### **🔗 Link:**
@@ -8,7 +8,7 @@ Welcome to the third Machine Learning Mini Project. This mini project involves i
 
 ---
 
-## **🚀 Project Tasks**
+## **🚀 Mini Project Tasks**
 
 ### ❓ **Question 1 (Q1): Support Vector Machines (SVMs) on Iris Dataset**
 
