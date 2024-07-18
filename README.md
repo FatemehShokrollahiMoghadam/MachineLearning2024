@@ -12,7 +12,7 @@ Welcome to the GitHub repository for the Machine Learning course offered by Dr. 
 - [License](#license)
 
 ## 📘 Course Overview
-This repository includes the codes, datasets, and reports for the four mini projects, exams, and project.
+This repository includes the codes, datasets, and reports for the four mini projects, exams and project.
 
 ## 🚀 Mini Projects
 Explore various machine learning techniques through these mini projects:
