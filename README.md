@@ -1,7 +1,7 @@
 # MachineLearning2024
 Welcome to the GitHub repository for the Machine Learning course offered by Dr. Aliyari at K. N. Toosi University of Technology! This repository contains a collection of assignments and projects that demonstrate the knowledge and skills acquired during the course.
 
-## Contents
+## 📚 Contents
 - [Course Overview](#course-overview)
 - [Mini Projects](#mini-projects)
 - [Main Project](#main-project)
@@ -12,12 +12,13 @@ Welcome to the GitHub repository for the Machine Learning course offered by Dr. 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Course Overview
+## 📘 Course Overview
 This repository includes the code, datasets, and reports for the four mini projects, Exams and main project .
-## Mini Projects
+
+## 🚀 Mini Projects
 Explore various machine learning techniques through these mini projects:
 
-## Mini Project 1: Linear Classifiers
+### 📊 Mini Project 1: Linear Classifiers
 
 ### Tasks:
 - Dataset generation using sklearn.datasets.
@@ -29,7 +30,7 @@ Explore various machine learning techniques through these mini projects:
 
 ---
 
-## Mini Project 2: MLP Networks & Naive Bayes Classifier
+### 🤖 Mini Project 2: MLP Networks & Naive Bayes Classifier
 
 ### Tasks:
 - Dataset extension and analysis.
@@ -42,7 +43,7 @@ Explore various machine learning techniques through these mini projects:
 
 ---
 
-## Mini Project 3: SVM on Iris Dataset and Credit Card Fraud Detection Using Autoencoder Neural Network
+### 💳 Mini Project 3: SVM on Iris Dataset and Credit Card Fraud Detection Using Autoencoder Neural Network
 
 ### Tasks:
 - SVM implementation on Iris dataset.
@@ -55,7 +56,7 @@ Explore various machine learning techniques through these mini projects:
 
 ---
 
-## Mini Project 4: Q-learning and Deep Q-Network in Wumpus World
+### 🕹️ Mini Project 4: Q-learning and Deep Q-Network in Wumpus World
 
 ### Tasks:
 - Building Wumpus World environment.
@@ -67,10 +68,10 @@ Explore various machine learning techniques through these mini projects:
 
 ---
 
-## Exams
+## 📝 Exams
 The repository includes my answers to the midterm and final exams:
 
-## Midterm Exam
+### 📅 Midterm Exam
 The Midterm exam took place on May 30th.
 
 ### topics:
@@ -82,7 +83,7 @@ The Midterm exam took place on May 30th.
 - [Google Drive Link](https://drive.google.com/drive/folders/1_P3-nvhOeYg_IHdjLAWpdWicf3BTGy_N?usp=sharing)
 
 ---
-## Final Exam
+### 📅 Final Exam
 The Final exam took place on June 26th.
 
 ### topics:
@@ -94,19 +95,22 @@ The Final exam took place on June 26th.
 - [Google Drive Link](https://drive.google.com/drive/folders/1Ot1itfRgFwJMES9MD5RBcutQCEaT26v-?usp=sharing)
 
 ---
-## Main Project
-The main project is a comprehensive application of the concepts learned throughout the course. Details of the project are as follows:
 
-- **Project Title:** [Main Project Title]
-- **Description:** [Brief description of the main project]
-- [Link to Main Project]
+## 💼 Main Project
+
+- **Project Title: Q-Learning for HVAC system control** 
+- **Description:**
+  This project proposes the implementation of a Q-learning algorithm to optimize the energy consumption of HVAC systems. Q-learning, a model-free reinforcement learning algorithm, will be employed to develop a control strategy that minimizes energy use while maintaining desired temperature and humidity levels.
+
+  ### Link:
+- [Google Drive Link](https://drive.google.com/drive/folders/1g3zFZeV9Gx8rP9EjxtkFJR__iZWeMsb_?usp=sharing)
 
 ---
 
-## Getting Started
+## 🛠️ Getting Started
 To get started with the projects and exams, follow the instructions below.
 
-## Installation
+## 💻 Installation
 1. Clone the repository to your local machine:
     ```bash
     git clone https://github.com/FatemehShokrollahiMoghadam/MachineLearning2024.git
@@ -120,11 +124,8 @@ To get started with the projects and exams, follow the instructions below.
     pip install -r requirements.txt
     ```
 
-## Usage
-To run the mini projects and main project, follow the instructions provided in their respective directories.
-
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
 
-## License
+## 📄 License
 This project is licensed under the MIT License.
