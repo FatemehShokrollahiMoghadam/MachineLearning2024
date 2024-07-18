@@ -8,7 +8,6 @@ Welcome to the GitHub repository for the Machine Learning course offered by Dr. 
 - [Exams](#exams)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
