@@ -24,31 +24,31 @@ Welcome to the second Machine Learning Mini Project. This mini project involves 
 -**Dataset Extension:** Extend the previous mini project dataset by adding two more classes.
 -**Feature Extraction and Data Preparation:** Implement the previous steps of data preparation and feature extraction on the new dataset. Add a validation.
 -**MLP Model Training:** Train a Multi-Layer Perceptron (MLP) with two hidden layers. Evaluate the model using appropriate metrics.
--**Optimizer  Loss Function Comparison: Compare the results using different optimizers and loss functions. Analyze the impact of these changes on the model's performance.
 
 ---
 
 ### ❓ **Question 3 (Q3): Decision Tree**
 
 #### **Tasks:**
-- **Dataset Analysis:** Analyze the Weather in Seqed dataset, focusing on the relationship between `temperature` and `humidity`.
-- **Model Implementation:** Implement RLS and LS models for temperature prediction. Compare the results.
-- **Weighted Least Squares:** Implement and explain the WLS method.
+-**Dataset Analysis:** import a dataset related to drug classification. Split the data into training and test sets.
+-**Decision Tree Implementation:** Implement a decision tree classifier. Evaluate its performance using confusion matrix.
+-**Hyperparameter Tuning:** classify with different hyperparameters like pruning settings..
+-**Random Forests and AdaBoost:** implement advanced methods like Random Forests and AdaBoost to improve the model's performance.
 
 ---
 
 ### ❓ **Question 4 (Q4): Naive Bayes Classifier**
 
 #### **Tasks:**
-- **Dataset Analysis:** Analyze the Weather in Seqed dataset, focusing on the relationship between `temperature` and `humidity`.
-- **Model Implementation:** Implement RLS and LS models for temperature prediction. Compare the results.
-- **Weighted Least Squares:** Implement and explain the WLS method.
+
+-**Naive Bayes Classification:** Implement a Gaussian Naive Bayes classifier on Heart Disease Dataset. analyze the results using Micro and Macro averaging.
+-**Prediction Analysis:** compare predicted outputs with actual values and Evaluate performance using confusion matrix.
 
 ---
 
 ## **📚 Libraries**
 
-- `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`, `glob`, `sklearn`, `drawdata`
+- `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `sklearn`
 
 ## **📄 Report**
-For more detailed information on the implementation, evaluation, and analysis of each question, please refer to the report file named MiniProject1-40207364.
+For more detailed information on the implementation, evaluation, and analysis of each question, please refer to the report file named MiniProject2-40207364.
