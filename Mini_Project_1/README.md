@@ -1,7 +1,7 @@
 # **📘 Mini Project 1**
 
 ## **📖 Project Overview**
-Welcome to the first Machine Learning Mini Project. This project involves implementing and evaluating various machine learning and regression models on different datasets. The project is divided into 3 questions, each focusing on different aspects of data analysis and modeling. This part includes the code, datasets, and reports for the mini-project. Detailed instructions and requirements for each part are provided below.
+Welcome to the first Machine Learning Mini Project. This mini project involves implementing and evaluating various machine learning and regression models on different datasets. The mini project is divided into 3 questions, each focusing on different aspects of data analysis and modeling. This part includes the code, datasets, and reports for the mini-project. Detailed instructions and requirements for each part are provided below.
 
 ### **🔗 Link:**
 - [Google Drive Link](https://drive.google.com/drive/folders/1J257gP6OFWAWBdwDVx3DuEpFa299DFbz?usp=sharing)
@@ -43,7 +43,7 @@ Welcome to the first Machine Learning Mini Project. This project involves implem
 
 ## **📚 Libraries**
 
-- `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`, `glob`, `sklearn`, `drawdata`
+- `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `sklearn`, `drawdata`
 
 ## **📄 Report**
 For more detailed information on the implementation, evaluation, and analysis of each question, please refer to the report file named MiniProject1-40207364.
