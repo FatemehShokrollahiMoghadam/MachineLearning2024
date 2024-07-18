@@ -1,6 +1,6 @@
 # **📘 Mini Project 2**
 
-## **📖 Project Overview**
+## **📖 Mini Project Overview**
 Welcome to the second Machine Learning Mini Project. This mini project involves the implementation and evaluation of various machine learning models on different datasets. The mini project is divided into 4 questions, each focusing on different aspects of machine learning.
 
 ### **🔗 Link:**
@@ -8,7 +8,7 @@ Welcome to the second Machine Learning Mini Project. This mini project involves 
 
 ---
 
-## **🚀 Project Tasks**
+## **🚀 Mini Project Tasks**
 
 ### ❓ **Question 1 (Q1): McCulloch-Pitts Neuron**
 
