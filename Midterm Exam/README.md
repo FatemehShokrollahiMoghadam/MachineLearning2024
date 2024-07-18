@@ -17,7 +17,7 @@ The Midterm exam took place on May 30th.
 
 ### 2️⃣ **Question 2: Perceptron and Decision Tree**
 #### **Tasks:**
-- **🌳🧠 Decision Tree:** Train and evaluate a decision tree model based on Perceptron model.
+- **🧠🌳 Perceptron Tree:** Train and evaluate a decision tree model based on Perceptron model.
 
 ---
 
