@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the Machine Learning course offered by Dr. 
 ## 📚 Contents
 - [Course Overview](#course-overview)
 - [Mini Projects](#mini-projects)
-- [Main Project](#main-project)
+- [Project](#project)
 - [Exams](#exams)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
@@ -12,7 +12,7 @@ Welcome to the GitHub repository for the Machine Learning course offered by Dr. 
 - [License](#license)
 
 ## 📘 Course Overview
-This repository includes the code, datasets, and reports for the four mini projects, Exams and main project .
+This repository includes the codes, datasets, and reports for the four mini projects, exams, and project.
 
 ## 🚀 Mini Projects
 Explore various machine learning techniques through these mini projects:
@@ -95,7 +95,8 @@ The Final exam took place on June 26th.
 
 ---
 
-## 💼 Main Project
+## 💼 Project
+The project will take place on July 21st.
 
 - **Project Title: Q-Learning for HVAC system control** 
 - **Description:**
