@@ -1,6 +1,6 @@
 # **📘 Mini Project 1**
 
-## **📖 Project Overview**
+## **📖 Mini Project Overview**
 Welcome to the first Machine Learning Mini Project. This mini project involves implementing and evaluating various machine learning and regression models on different datasets. The mini project is divided into 3 questions, each focusing on different aspects of data analysis and modeling. This part includes the code, datasets, and reports for the mini-project. Detailed instructions and requirements for each part are provided below.
 
 ### **🔗 Link:**
@@ -8,7 +8,7 @@ Welcome to the first Machine Learning Mini Project. This mini project involves i
 
 ---
 
-## **🚀 Project Tasks**
+## **🚀 Mini Project Tasks**
 
 ### ❓ **Question 1 (Q1): Linear Classifiers Training**
 
