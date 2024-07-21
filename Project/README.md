@@ -4,7 +4,7 @@
 This repository contains the main project for the Machine Learning 2024 course. The project focuses on applying Q-learning to optimize HVAC system control.
 
 ### 🕒 **Project Date:**
-The project will take place on July 21st.
+The project took place on July 21st.
 
 ---
 
